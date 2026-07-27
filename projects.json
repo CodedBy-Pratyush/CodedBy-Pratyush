@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Project One",
+    "repo": "CodedBy-Pratyush/project-one",
+    "description": "TODO: replace with your project's repo, name & description",
+    "tags": ["React", "Node.js", "MongoDB"]
+  },
+  {
+    "name": "Project Two",
+    "repo": "CodedBy-Pratyush/project-two",
+    "description": "TODO: replace with your project's repo, name & description",
+    "tags": ["React", "Express", "PostgreSQL"]
+  },
+  {
+    "name": "Project Three",
+    "repo": "CodedBy-Pratyush/project-three",
+    "description": "TODO: replace with your project's repo, name & description",
+    "tags": ["Java", "Spring Boot"]
+  },
+  {
+    "name": "Project Four",
+    "repo": "CodedBy-Pratyush/project-four",
+    "description": "TODO: replace with your project's repo, name & description",
+    "tags": ["C++", "DSA"]
+  },
+  {
+    "name": "Project Five",
+    "repo": "CodedBy-Pratyush/project-five",
+    "description": "TODO: replace with your project's repo, name & description",
+    "tags": ["MERN", "Full-Stack"]
+  }
+]
