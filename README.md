@@ -13,7 +13,7 @@
 
 <!-- ================= SOCIAL LINKS (buttons ready — add your links later) ================= -->
 <p align="center">
-  <a href="" target="_blank">
+  <a href="" target="https://github.com/CodedBy-Pratyush">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="" target="https://www.linkedin.com/in/pratyush-banerjee-0a0642284/">
@@ -22,7 +22,7 @@
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:pratyushbanerjee75@gmail.com" target="_blank">
+  <a href="pratyushbanerjee75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
