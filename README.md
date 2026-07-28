@@ -11,24 +11,29 @@
   <img src="https://img.shields.io/github/followers/CodedBy-Pratyush?label=Followers&style=social" alt="followers" />
 </p>
 
-<!-- ================= SOCIAL LINKS (buttons ready — add your links later) ================= -->
+<!-- ================= SOCIAL LINKS (Portfolio left empty — add later) ================= -->
 <p align="center">
-  <a href="" target="https://github.com/CodedBy-Pratyush">
+  <a href="https://github.com/CodedBy-Pratyush" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="" target="https://www.linkedin.com/in/pratyush-banerjee-0a0642284/">
+  <a href="https://www.linkedin.com/in/pratyush-banerjee-0a0642284/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="pratyushbanerjee75@gmail.com" target="_blank">
+  <a href="mailto:pratyushbanerjee75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="800">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" alt="">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ---
@@ -46,6 +51,10 @@
 
 <br clear="right"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=console.log(%22Let's+build+something+great%22)%3B;while(alive)+%7B+keepLearning()%3B+%7D" alt="code typing"/>
+</p>
+
 ---
 
 ## 🐍 GitHub Contribution Snake
@@ -55,7 +64,7 @@
   <img src="https://raw.githubusercontent.com/CodedBy-Pratyush/CodedBy-Pratyush/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
 </p>
 
-> ⚙️ This snake animation is powered by a GitHub Action (`snake.yml` included). It "eats" your contribution graph automatically every day. Make sure the repo name matches your **username/username** profile repo, then enable Actions.
+> ⚙️ This snake animation is powered by a GitHub Action (`snake.yml` included). It "eats" your contribution graph automatically every day.
 
 ---
 
@@ -69,21 +78,18 @@
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedBy-Pratyush&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
-
 ---
-
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Pratyushbanerjee/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/Pratyushbanerjee/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
