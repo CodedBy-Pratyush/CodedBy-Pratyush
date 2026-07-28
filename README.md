@@ -84,14 +84,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodedBy-Pratyush&theme=darkhub&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## ✨ Contribution Graph (3D)
 
 <p align="center">
