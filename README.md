@@ -84,13 +84,6 @@
 
 ---
 
-## ✨ Contribution Graph (3D)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CodedBy-Pratyush/CodedBy-Pratyush/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
-</p>
-
----
 
 ## 🤝 Connect With Me
 
