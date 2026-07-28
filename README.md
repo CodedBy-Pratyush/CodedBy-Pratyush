@@ -69,18 +69,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodedBy-Pratyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBy-Pratyush&layout=compact&theme=tokyonight&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodedBy-Pratyush&theme=tokyonight" alt="streak stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedBy-Pratyush&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
+
 
 ---
 
