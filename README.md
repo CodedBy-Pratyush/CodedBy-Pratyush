@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratyushbanerjee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/pratyushbanerjee?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=CodedBy-Pratyush&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/CodedBy-Pratyush?label=Followers&style=social" alt="followers" />
 </p>
 
 <!-- ================= SOCIAL LINKS (buttons ready — add your links later) ================= -->
@@ -51,8 +51,8 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratyushbanerjee/pratyushbanerjee/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
-  <img src="https://raw.githubusercontent.com/pratyushbanerjee/pratyushbanerjee/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
+  <img src="https://raw.githubusercontent.com/CodedBy-Pratyush/CodedBy-Pratyush/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark"/>
+  <img src="https://raw.githubusercontent.com/CodedBy-Pratyush/CodedBy-Pratyush/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light"/>
 </p>
 
 > ⚙️ This snake animation is powered by a GitHub Action (`snake.yml` included). It "eats" your contribution graph automatically every day. Make sure the repo name matches your **username/username** profile repo, then enable Actions.
@@ -70,16 +70,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratyushbanerjee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushbanerjee&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodedBy-Pratyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodedBy-Pratyush&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyushbanerjee&theme=tokyonight" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodedBy-Pratyush&theme=tokyonight" alt="streak stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyushbanerjee&theme=react-dark&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedBy-Pratyush&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
 ---
@@ -87,7 +87,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratyushbanerjee&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CodedBy-Pratyush&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -95,7 +95,7 @@
 ## ✨ Contribution Graph (3D)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratyushbanerjee/pratyushbanerjee/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+  <img src="https://raw.githubusercontent.com/CodedBy-Pratyush/CodedBy-Pratyush/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 </p>
 
 > 💡 Generated via the `yoshi389111/github-profile-3d-contrib` action — add its workflow to enable this automatically.
