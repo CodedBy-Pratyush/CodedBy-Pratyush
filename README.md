@@ -74,16 +74,6 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,react,nodejs,git,github,vscode,figma,mysql,mongodb,linux&theme=dark" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodedBy-Pratyush&theme=react-dark&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
